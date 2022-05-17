@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yeajin Lee</h1>
 <h3 align="center">A backend developer from Korea</h3>
 
-- 🔭 I’m currently working on [Spring project](https://github.com/yeajinlee/commcomm)
+- 🔭 I’m currently working on [CommComm(Spring project)](https://github.com/yeajinlee/commcomm)
 
 - 🌱 I’m currently learning **Spring framework, Java, Python**
 
