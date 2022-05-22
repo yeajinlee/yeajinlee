@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [CommComm(Spring project)](https://github.com/yeajinlee/commcomm)
 
-- 🌱 I’m currently learning **Spring framework, Java, Python**
+- 🌱 I’m currently learning **Web development, Spring framework/boot, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yeajinlee](https://github.com/yeajinlee)
 
