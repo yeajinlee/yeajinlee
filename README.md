@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Multi Restaurant](https://github.com/yeajinlee/multi_restaurant), [CommComm(Spring project)](https://github.com/yeajinlee/commcomm)
 
-- 🌱 I’m currently learning **Web development, Spring framework/boot, Java**
+- 🌱 I’m currently learning **Web development, Node.js, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yeajinlee](https://github.com/yeajinlee)
 
